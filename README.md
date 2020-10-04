@@ -1,6 +1,6 @@
 # moneymanger
 
-A new Flutter application.
+A new basic Flutter application to manage your daily expenses.
 
 ## Getting Started
 
